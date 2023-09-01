@@ -1,0 +1,22 @@
+
+*** These modified files were found in JOE when it aborted on Tue Jun 11 14:23:17 2019
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+canvas.php
+article.php
+canvas.php
+canvas_update.php
+index.php
+config.php
+required.php
+home.php
+index.php
+article.php
+member.php
+
+*** File '* Startup Log *'
+Processing '/usr/local/etc/joe/joerc'...
+Processing '/usr/local/etc/joe/ftyperc'...
+Finished processing /usr/local/etc/joe/ftyperc
+Finished processing /usr/local/etc/joe/joerc
